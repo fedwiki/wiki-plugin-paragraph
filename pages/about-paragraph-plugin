@@ -12,24 +12,24 @@
       "text": "Enter an empty paragraph to remove the item."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0e120200bb596656",
-      "text": "<h3> Markup"
+      "text": "<h3>Markup</h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "63c74600fa219aa4",
       "text": "Write <b>[ [ Page Titles ] ]</b> inside of double square brackets to make an internal link to a new wiki page. "
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "689302a33cb62a5e",
       "text": "Write <b>[ http://example.com/webpage.html webpage ]</b> inside single square brackets to make an external link to another web page. Include a second field that specifies how the link is to appear in the rendered text."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "5196ca687c4fdb24",
-      "text": "<h3> Links"
+      "text": "<h3>Links</h3>"
     },
     {
       "type": "paragraph",
@@ -37,29 +37,29 @@
       "text": "By convention external links are represented by single lower-case words that identify what kind of page one will find when clicking the link. "
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "6d203d9357bfabdb",
       "text": "<b>wikipedia</b> for a Wikipedia article."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "bc7687321dc5f876",
       "text": "<b>post</b> for a blog or other social media post"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "3cdf3d59e3d07879",
       "text": "<b>github</b> for source code on GitHub"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "e74e5ddb9c99ba0c",
       "text": "<b>webpage</b> for an otherwise undistinguished web page"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "b9e8000ee0532f56",
-      "text": "<h3> Paste"
+      "text": "<h3>Paste</h3>"
     },
     {
       "type": "paragraph",
@@ -67,9 +67,9 @@
       "text": "If text is pasted that includes blank lines then blank lines will be rendered in the output. Otherwise newlines and other superfluous whitespace is ignored."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "187be247ebc4710f",
-      "text": "<h3> HTML"
+      "text": "<h3>HTML<h3>"
     },
     {
       "type": "paragraph",
@@ -652,6 +652,147 @@
         "text": "Enter an empty paragraph to remove the item."
       },
       "date": 1361757130714
+    },
+    {
+      "type": "edit",
+      "id": "0e120200bb596656",
+      "item": {
+        "type": "html",
+        "id": "0e120200bb596656",
+        "text": "<h3> Markup"
+      },
+      "date": 1418362194958
+    },
+    {
+      "type": "edit",
+      "id": "0e120200bb596656",
+      "item": {
+        "type": "html",
+        "id": "0e120200bb596656",
+        "text": "<h3>Markup</h3>"
+      },
+      "date": 1418362211556
+    },
+    {
+      "type": "edit",
+      "id": "63c74600fa219aa4",
+      "item": {
+        "type": "html",
+        "id": "63c74600fa219aa4",
+        "text": "Write <b>[ [ Page Titles ] ]</b> inside of double square brackets to make an internal link to a new wiki page. "
+      },
+      "date": 1418362215100
+    },
+    {
+      "type": "edit",
+      "id": "689302a33cb62a5e",
+      "item": {
+        "type": "html",
+        "id": "689302a33cb62a5e",
+        "text": "Write <b>[ http://example.com/webpage.html webpage ]</b> inside single square brackets to make an external link to another web page. Include a second field that specifies how the link is to appear in the rendered text."
+      },
+      "date": 1418362216900
+    },
+    {
+      "type": "edit",
+      "id": "5196ca687c4fdb24",
+      "item": {
+        "type": "html",
+        "id": "5196ca687c4fdb24",
+        "text": "<h3> Links"
+      },
+      "date": 1418362526303
+    },
+    {
+      "type": "edit",
+      "id": "5196ca687c4fdb24",
+      "item": {
+        "type": "html",
+        "id": "5196ca687c4fdb24",
+        "text": "<h3>Links</h3>"
+      },
+      "date": 1418362534182
+    },
+    {
+      "type": "edit",
+      "id": "6d203d9357bfabdb",
+      "item": {
+        "type": "html",
+        "id": "6d203d9357bfabdb",
+        "text": "<b>wikipedia</b> for a Wikipedia article."
+      },
+      "date": 1418362540294
+    },
+    {
+      "type": "edit",
+      "id": "bc7687321dc5f876",
+      "item": {
+        "type": "html",
+        "id": "bc7687321dc5f876",
+        "text": "<b>post</b> for a blog or other social media post"
+      },
+      "date": 1418362541719
+    },
+    {
+      "type": "edit",
+      "id": "3cdf3d59e3d07879",
+      "item": {
+        "type": "html",
+        "id": "3cdf3d59e3d07879",
+        "text": "<b>github</b> for source code on GitHub"
+      },
+      "date": 1418362542647
+    },
+    {
+      "type": "edit",
+      "id": "e74e5ddb9c99ba0c",
+      "item": {
+        "type": "html",
+        "id": "e74e5ddb9c99ba0c",
+        "text": "<b>webpage</b> for an otherwise undistinguished web page"
+      },
+      "date": 1418362543559
+    },
+    {
+      "type": "edit",
+      "id": "b9e8000ee0532f56",
+      "item": {
+        "type": "html",
+        "id": "b9e8000ee0532f56",
+        "text": "<h3> Paste"
+      },
+      "date": 1418362546329
+    },
+    {
+      "type": "edit",
+      "id": "b9e8000ee0532f56",
+      "item": {
+        "type": "html",
+        "id": "b9e8000ee0532f56",
+        "text": "<h3>Paste</h3>"
+      },
+      "date": 1418362554616
+    },
+    {
+      "type": "edit",
+      "id": "187be247ebc4710f",
+      "item": {
+        "type": "html",
+        "id": "187be247ebc4710f",
+        "text": "<h3> HTML"
+      },
+      "date": 1418362557608
+    },
+    {
+      "type": "edit",
+      "id": "187be247ebc4710f",
+      "item": {
+        "type": "html",
+        "id": "187be247ebc4710f",
+        "text": "<h3>HTML<h3>"
+      },
+      "date": 1418362571076
     }
-  ]
+  ],
+  "plugin": "paragraph"
 }
