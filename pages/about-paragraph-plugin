@@ -14,7 +14,7 @@
     {
       "type": "html",
       "id": "0e120200bb596656",
-      "text": "<h3>Markup</h3>"
+      "text": "<h3>Links</h3>"
     },
     {
       "type": "html",
@@ -25,11 +25,6 @@
       "type": "html",
       "id": "689302a33cb62a5e",
       "text": "Write <b>[ http://example.com/webpage.html webpage ]</b> inside single square brackets to make an external link to another web page. Include a second field that specifies how the link is to appear in the rendered text."
-    },
-    {
-      "type": "html",
-      "id": "5196ca687c4fdb24",
-      "text": "<h3>Links</h3>"
     },
     {
       "type": "paragraph",
@@ -69,32 +64,22 @@
     {
       "type": "html",
       "id": "187be247ebc4710f",
-      "text": "<h3>HTML<h3>"
+      "text": "<h3>Additional Markup<h3>"
     },
     {
       "type": "paragraph",
       "id": "50a110988626716f",
-      "text": "We do accept HTML but discourage its use."
+      "text": "The paragraph plugin does not accept additional markup, but we offer:"
+    },
+    {
+      "type": "markdown",
+      "id": "c7dcabb71a47a724",
+      "text": "- the markdown plugin, see [[About Markdown Plugin]], for simple markup, and\n\n- the HTML plugin, see [[About HTML Plugin]], for HTML."
     },
     {
       "type": "paragraph",
-      "id": "91307627f8d6b13b",
-      "text": "We expect bold and italic markup will be accepted."
-    },
-    {
-      "type": "paragraph",
-      "id": "a147ed207074ff1f",
-      "text": "We expect headings will be accepted. We use h3 only."
-    },
-    {
-      "type": "paragraph",
-      "id": "a147d447337c6223",
-      "text": "We expect sub and super markup will be accepted."
-    },
-    {
-      "type": "paragraph",
-      "id": "b99e2a6c9d8c856c",
-      "text": "We regret that less-than symbols and other characters that appear to be html do not properly render yet. Soon."
+      "id": "18d6b05fc4d8ffff",
+      "text": "Paragraph items can be converted to HTML items using \"SHIFT + Double Click\"."
     }
   ],
   "journal": [
@@ -792,6 +777,177 @@
         "text": "<h3>HTML<h3>"
       },
       "date": 1418362571076
+    },
+    {
+      "type": "edit",
+      "id": "50a110988626716f",
+      "item": {
+        "type": "paragraph",
+        "id": "50a110988626716f",
+        "text": "We do not accept HTML, but offer the HTML plugin (see [[About HTML Plugin]]) for those occasions where markup is required. "
+      },
+      "date": 1418502419698
+    },
+    {
+      "type": "remove",
+      "id": "91307627f8d6b13b",
+      "date": 1418502432174
+    },
+    {
+      "type": "remove",
+      "id": "a147ed207074ff1f",
+      "date": 1418502439542
+    },
+    {
+      "type": "remove",
+      "id": "a147d447337c6223",
+      "date": 1418502447084
+    },
+    {
+      "type": "remove",
+      "id": "b99e2a6c9d8c856c",
+      "date": 1418502461645
+    },
+    {
+      "type": "edit",
+      "id": "50a110988626716f",
+      "item": {
+        "type": "paragraph",
+        "id": "50a110988626716f",
+        "text": "We do not accept HTML, but offer the markdown plugin (see [[About Markdown Plugin]]) for simple markup, and the HTML plugin (see [[About HTML Plugin]] for those occasions something more complex is required. "
+      },
+      "date": 1418543802883
+    },
+    {
+      "type": "edit",
+      "id": "50a110988626716f",
+      "item": {
+        "type": "paragraph",
+        "id": "50a110988626716f",
+        "text": "We do not accept HTML, but offer the markdown plugin (see [[About Markdown Plugin]]) for simple markup, and the HTML plugin (see [[About HTML Plugin]]) for those occasions something more complex is required. "
+      },
+      "date": 1418543842053
+    },
+    {
+      "type": "edit",
+      "id": "187be247ebc4710f",
+      "item": {
+        "type": "html",
+        "id": "187be247ebc4710f",
+        "text": "<h3>Markup<h3>"
+      },
+      "date": 1418543855128
+    },
+    {
+      "type": "edit",
+      "id": "0e120200bb596656",
+      "item": {
+        "type": "html",
+        "id": "0e120200bb596656",
+        "text": "<h3>Links</h3>"
+      },
+      "date": 1418543918303
+    },
+    {
+      "type": "remove",
+      "id": "5196ca687c4fdb24",
+      "date": 1418543922388
+    },
+    {
+      "type": "edit",
+      "id": "187be247ebc4710f",
+      "item": {
+        "type": "html",
+        "id": "187be247ebc4710f",
+        "text": "<h3>Additional Markup<h3>"
+      },
+      "date": 1418544611964
+    },
+    {
+      "type": "edit",
+      "id": "50a110988626716f",
+      "item": {
+        "type": "paragraph",
+        "id": "50a110988626716f",
+        "text": "The paragraph plugin does not accept additional markup, but we offerWe do not accept HTML, but offer the markdown plugin (see [[About Markdown Plugin]]) for simple markup, and the HTML plugin (see [[About HTML Plugin]]) for those occasions something more complex is required. "
+      },
+      "date": 1418544694738
+    },
+    {
+      "type": "edit",
+      "id": "50a110988626716f",
+      "item": {
+        "type": "paragraph",
+        "id": "50a110988626716f",
+        "text": "The paragraph plugin does not accept additional markup, but we offer:"
+      },
+      "date": 1418544711758
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b57a6eec9540859d",
+        "text": "We do not accept HTML, but offer the markdown plugin (see [[About Markdown Plugin]]) for simple markup, and the HTML plugin (see [[About HTML Plugin]]) for those occasions something more complex is required. "
+      },
+      "id": "b57a6eec9540859d",
+      "type": "add",
+      "after": "50a110988626716f",
+      "date": 1418544711766
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c7dcabb71a47a724"
+      },
+      "id": "c7dcabb71a47a724",
+      "type": "add",
+      "after": "b57a6eec9540859d",
+      "date": 1418544733785
+    },
+    {
+      "type": "edit",
+      "id": "c7dcabb71a47a724",
+      "item": {
+        "type": "markdown",
+        "id": "c7dcabb71a47a724",
+        "text": "- the markdown plugin, see [[About Markdown Plugin]], for simple markup, and\n- the HTML plugin, see [[About HTML Plugin]], for HTML."
+      },
+      "date": 1418544875114
+    },
+    {
+      "type": "remove",
+      "id": "b57a6eec9540859d",
+      "date": 1418544887023
+    },
+    {
+      "type": "edit",
+      "id": "c7dcabb71a47a724",
+      "item": {
+        "type": "markdown",
+        "id": "c7dcabb71a47a724",
+        "text": "- the markdown plugin, see [[About Markdown Plugin]], for simple markup, and\n\n- the HTML plugin, see [[About HTML Plugin]], for HTML."
+      },
+      "date": 1418544897072
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18d6b05fc4d8ffff"
+      },
+      "id": "18d6b05fc4d8ffff",
+      "type": "add",
+      "after": "c7dcabb71a47a724",
+      "date": 1418544912490
+    },
+    {
+      "type": "edit",
+      "id": "18d6b05fc4d8ffff",
+      "item": {
+        "type": "paragraph",
+        "id": "18d6b05fc4d8ffff",
+        "text": "Paragraph items can be converted to HTML items using \"SHIFT + Double Click\"."
+      },
+      "date": 1418545050336
     }
   ],
   "plugin": "paragraph"
